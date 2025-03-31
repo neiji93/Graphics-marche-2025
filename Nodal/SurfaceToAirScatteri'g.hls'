@@ -9,3 +9,17 @@ double secondTtpetresholdAndPatch =>>>
 double extremeteeshold =
 double extremeThresoldAndPatgh +....
   
+//use the derivatives of the abelian integrals
+//to enable modelling
+void validateRays()
+{
+  w= getsaampledpointfeomTextureArray();
+  //or return the complex form
+  return;
+
+  //we need to sample again (heat rransfer)
+
+}
+
+//more safe and powerfull. due to 0( n x log(n))
+//but the double sampli'g become an integral qgzin
